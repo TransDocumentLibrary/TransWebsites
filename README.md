@@ -12,6 +12,8 @@
 
 [女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/)：一个翻译Transfeminine Science内的论文的中文文库
 
+[对非二元女性倾向跨性别者的激素治疗可能性的探索](https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/) 部分女性化的激素治疗手段及非二元hrt方案一些可能性讨论
+
 [MtF GAHT 资料](https://docs.hrt.guide/):这是一份关于跨性别女性激素治疗/gender-affirming hormone therapy (GAHT)的专业医学资料 &nbsp; *(后续会更新pdf版下载源链接)*
 
 [SOC-8 跨性别和多元性别人群健康照护指南第八版](https://project-trans.org/SOC-8/):跨性别和多元性别人群健康照护指南（第8版）及中文翻译
