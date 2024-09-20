@@ -99,7 +99,7 @@
 [一份由2617位科学家联合发表的声明反对根据出生时生殖器来定义性别](https://not-binary.org/statement/)认为这种做法忽视了性别身份的复杂性,性别涉及生物,遗传和神经解剖学等多种因素.科学家们强调应尊重个人自我认定的性别,并批评该政策可能对跨性别者,双性人和性别不符合传统定义的人群造成的潜在伤害.倡议指出,这样的定义忽视了性别的生物,遗传和神经解剖学复杂性,并呼吁尊重跨性别者,双性人和性别不符群体的自我认定的性别身份.倡议旨在保护这些群体免受潜在的政策伤害,并呼吁尊重跨性别者,双性人和性别不符群体的自我认定性别身份.
 
 
-[间性者-联合国人权高专办与性少数者人权](https://www.ohchr.org/zh/sexual-orientation-and-gender-identity/intersex-people)：联合国关于间性人介绍页面
+[间性者-联合国人权高专办与性少数者人权](https://www.ohchr.org/zh/sexual-orientation-and-gender-identity/intersex-people)：联合国关于间性人介绍以及推动维护间性者人权利益的页面
 
 [日惹原则 The Yogyakarta Principles](https://yogyakartaprinciples.org/principles-ch/) 关于将国际人权法应用于性倾向和性别认同相关事务的原则
 
