@@ -12,9 +12,7 @@
 
 [女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/)：一个翻译Transfeminine Science内的论文的中文文库
 
-[MtF GAHT 资料](https://docs.hrt.guide/):这是一份关于跨性别女性激素治疗/gender-affirming hormone therapy (GAHT)的专业医学资料 &nbsp; &nbsp; *(后续会更新pdf版下载源链接)*
-
-
+[MtF GAHT 资料](https://docs.hrt.guide/):这是一份关于跨性别女性激素治疗/gender-affirming hormone therapy (GAHT)的专业医学资料 &nbsp; *(后续会更新pdf版下载源链接)*
 
 ### 英文网站
 
@@ -23,6 +21,16 @@
 [Transfeminine Science](https://transfemscience.org/)：记录关于跨性别相关论文的文库
 
 [UCSF Transgender Care](https://transcare.ucsf.edu)
+
+***
+## 跨性别科学相关
+
+[SOC-8 跨性别和多元性别人群健康照护指南第八版](https://project-trans.org/SOC-8/):跨性别和多元性别人群健康照护指南（第8版）及中文翻译
+
+[性别烦躁指南](https://genderdysphoria.fyi/zh):这是一份有关性别烦躁/焦虑的指南以及中文译本还有一些相关资料
+
+[跨性别女性第一性征知识检定](https://docs.google.com/forms/d/e/1FAIpQLSefhWY1MWp8rNarmjn4gHhkq3ySkAI2MVd_oxavJIWH0ZSplw/viewform): 一个女性第一性征知识检定量表 
+*(由于谷歌表格的关系所以多选题不全对会导致全部没分所以分值可能不准确)*
 
 ***
 
