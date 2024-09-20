@@ -42,6 +42,10 @@
 
 [RLE wiki](https://rle.wiki)：RLE相关资料百科
 
+
+[跨性别选校手册](https://uniguide.oau.edu.kg/zh-hans/):跨性别选校相关,以及学术类高等教育职业为导向的高等教育信息
+
+
 ***
 
 ## 嗓音训练相关
