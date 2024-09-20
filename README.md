@@ -100,3 +100,5 @@
 
 
 [间性者-联合国人权高专办与性少数者人权](https://www.ohchr.org/zh/sexual-orientation-and-gender-identity/intersex-people)：联合国关于间性人介绍页面
+
+[联合国人权高专办与性少数者人权](https://www.ohchr.org/zh/sexual-orientation-and-gender-identity) 人权高专办关于性少数群体权利的工作
