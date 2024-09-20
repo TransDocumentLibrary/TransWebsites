@@ -22,6 +22,8 @@
 
 10、[药娘的天空](https://transky.mtf.wiki/)：一个记录2000年代跨性别者的网络小说
 
+11、[LGBTQIA In China](https://github.com/LGBT-CN)：中国LGBT群体在Github上的组织
+
 ## 英文网站
 
 1、[DITHRT](https://diyhrt.wiki/index)：记录HRT相关资料的网站
