@@ -26,7 +26,7 @@
 
 [那些秋叶-One Among Us](https://one-among.us)：记录逝去的跨性别者的网站
 
-[LGBTQIA In China]([https://github.com/LGBT-CN](https://lgbt-cn.github.io/))：中国LGBT群体Github社区
+[LGBT-CN]([https://github.com/LGBT-CN](https://lgbt-cn.github.io/))：中国LGBT群体Github社区
 
 [MTF 指南针](https://mtf.party)
 
