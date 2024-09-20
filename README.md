@@ -8,6 +8,8 @@
 
 [MTF wiki](https://mtf.wiki)：MTF百科，在上面可以查到很多关于用药、开证及医院等的相关信息
 
+[FTM wiki](https://ftm.wiki/zh-cn/) FTM百科 这里是一个或许可以给跨性别男性(FtM)群体提供帮助/资料的地方
+
 [女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/)：一个翻译Transfeminine Science内的论文的中文文库
 
 ### 英文网站
