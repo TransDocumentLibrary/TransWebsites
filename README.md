@@ -20,6 +20,8 @@
 
 9、[找回属于自己的声音](https://yzyz2022.notion.site/72d29a176da64aec9c4aa12060241eaa)：关于伪音/嗓音女性化的教程
 
+10、[药娘的天空](https://transky.mtf.wiki/)：一个记录2000年代跨性别者的网络小说
+
 ## 英文网站
 
 1、[DITHRT](https://diyhrt.wiki/index)：记录HRT相关资料的网站
