@@ -48,7 +48,7 @@
 
 [LGBT-CN](https://lgbt-cn.github.io/)：中国LGBT群体Github社区
 
-[MTF 指南针](https://mtf.party)
+[MTF 指南针](https://mtf.party)  一个为MtF群体提供各种帮助指南的站点
 
 [跨儿学术小组](https://oau.edu.kg/) 分享与跨儿相关的学术动态，记录跨儿自行构建的理论视角和实践知识，帮助跨儿求学、进修、工作，以跨儿的视角发声
 
