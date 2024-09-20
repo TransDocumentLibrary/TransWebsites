@@ -21,6 +21,11 @@
 [跨性别女性第一性征知识检定](https://docs.google.com/forms/d/e/1FAIpQLSefhWY1MWp8rNarmjn4gHhkq3ySkAI2MVd_oxavJIWH0ZSplw/viewform): 一个女性第一性征知识检定量表 
 *(由于谷歌表格的关系所以多选题不全对会导致全部没分所以分值可能不准确)*
 
+[“雌性激素诱导的第二青春期”导论](https://genderdysphoria.fyi/zh/%E9%9B%8C%E4%BA%8C%E9%9D%92%E6%98%A5%E6%9C%9F#%E7%B1%BB%E4%BC%BC%E6%9C%88%E7%BB%8F%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E7%97%87%E7%8A%B6) 女性化激素替代治疗（HRT）的效果-以及可能的类似月经的周期性症状 
+
+[“雄性激素诱导的第二青春期”导论](https://genderdysphoria.fyi/zh/%E9%9B%84%E4%BA%8C%E9%9D%92%E6%98%A5%E6%9C%9F)男性化激素替代治疗（HRT）的效果 - 本文收集了接受雄激素替代治疗的出生为女性的跨儿的相关资料
+
+
 ### 英文网站
 
 [DITHRT](https://diyhrt.wiki/index)：记录HRT相关资料的网站
