@@ -1,33 +1,61 @@
 # TransWebsites-一个记录对跨性别有用的网站的Github库
 
-## 中文网站
+***
 
-1、[MTF wiki](https://mtf.wiki)：MTF百科，在上面可以查到很多关于用药、开证及医院等的相关信息
+## 跨性別HRT科学相关
 
-2、[女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/)：一个翻译Transfeminine Science内的论文的中文文库
+### 中文网站
 
-3、[Project Trans](https://project-trans.org)：
+[MTF wiki](https://mtf.wiki)：MTF百科，在上面可以查到很多关于用药、开证及医院等的相关信息
 
-4、[2345.LGBT](https://2345.lgbt/zh-cn/)：中文互联网LGBT相关网站索引
+[女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/)：一个翻译Transfeminine Science内的论文的中文文库
 
-5、[那些秋叶-One Among Us](https://one-among.us)：记录逝去的跨性别者的网站
+### 英文网站
 
-6、[RLE wiki](https://rle.wiki)：RLE百科
+[DITHRT](https://diyhrt.wiki/index)：记录HRT相关资料的网站
 
-7、[MTF 指南针](https://mtf.party)
+[Transfeminine Science](https://transfemscience.org/)：记录关于跨性别相关论文的文库
 
-8、[成为女孩子的声音-系列图书](https://vocal.mtf.wiki)：关于伪音/嗓音女性化的教程
+[UCSF Transgender Care](https://transcare.ucsf.edu)
 
-9、[找回属于自己的声音](https://yzyz2022.notion.site/72d29a176da64aec9c4aa12060241eaa)：关于伪音/嗓音女性化的教程
+***
 
-10、[药娘的天空](https://transky.mtf.wiki/)：一个记录2000年代跨性别者的网络小说
+## 跨性别社区
 
-11、[LGBTQIA In China](https://github.com/LGBT-CN)：中国LGBT群体在Github上的组织
+[Project Trans](https://project-trans.org)：
 
-## 英文网站
+[那些秋叶-One Among Us](https://one-among.us)：记录逝去的跨性别者的网站
 
-1、[DITHRT](https://diyhrt.wiki/index)：记录HRT相关资料的网站
+[LGBTQIA In China](https://github.com/LGBT-CN)：中国LGBT群体在Github上的组织
 
-2、[Transfeminine Science](https://transfemscience.org/)：记录关于跨性别相关论文的文库
+[MTF 指南针](https://mtf.party)
 
-3、[UCSF Transgender Care](https://transcare.ucsf.edu)
+***
+
+## 化妆/RLE/外表改造相关
+
+[RLE wiki](https://rle.wiki)：RLE相关资料百科
+
+***
+
+## 嗓音训练相关
+
+[成为女孩子的声音-系列图书](https://vocal.mtf.wiki)：关于伪音/嗓音女性化的教程
+
+[找回属于自己的声音](https://yzyz2022.notion.site/72d29a176da64aec9c4aa12060241eaa)：关于伪音/嗓音女性化的教程
+
+***
+
+## 跨性别相关文学、艺术作品
+
+[药娘的天空](https://transky.mtf.wiki/)：一个记录2000年代跨性别者的网络小说
+
+[寫給你的話](https://music.163.com/song?id=1873009072&userid=8017070057)：为跨性别群体写的一首中文歌
+
+[“男孩” "女孩"](https://music.163.com/song?id=1374696628&userid=8017070057)
+
+***
+
+## 跨性别网站/资料索引
+
+[2345.LGBT](https://2345.lgbt/zh-cn/)：中文互联网LGBT相关网站索引
