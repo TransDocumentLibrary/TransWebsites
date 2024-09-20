@@ -1,4 +1,4 @@
-# TransLibrary-一个跨性别相关网站及资料等的Github库
+# TransWebsites-一个记录跨性别相关网站的Github库
 
 ## 中文网站
 
