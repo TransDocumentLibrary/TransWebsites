@@ -10,6 +10,8 @@
 
 [FTM wiki](https://ftm.wiki/zh-cn/) FTM百科 这里是一个或许可以给跨性别男性(FtM)群体提供帮助/资料的地方
 
+[KnowSex Post](https://post.knowsex.net/) 一个全面的性教育知识库
+
 [女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/)：一个翻译Transfeminine Science内的论文的中文文库
 
 [对非二元女性倾向跨性别者的激素治疗可能性的探索](https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/) 部分女性化的激素治疗手段及非二元hrt方案一些可能性讨论
@@ -47,6 +49,8 @@
 [LGBT-CN](https://lgbt-cn.github.io/)：中国LGBT群体Github社区
 
 [MTF 指南针](https://mtf.party)
+
+[生如夏花知识库](https://viva-la-vita.org/) 探索性体验相关
 
 ***
 
