@@ -29,6 +29,7 @@
 
 [“雄性激素诱导的第二青春期”导论](https://genderdysphoria.fyi/zh/%E9%9B%84%E4%BA%8C%E9%9D%92%E6%98%A5%E6%9C%9F)男性化激素替代治疗（HRT）的效果 - 本文收集了接受雄激素替代治疗的出生为女性的跨儿的相关资料
 
+[Project Trans 非正式笔记](https://blog.project-trans.org/) 本站用于记载 Project Trans 工作报告或整理未经充分考据的资料以及一些勘误资料
 
 ### 英文网站
 
