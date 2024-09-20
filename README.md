@@ -12,7 +12,7 @@
 
 [女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/)：一个翻译Transfeminine Science内的论文的中文文库
 
-[MtF GAHT 资料](https://docs.hrt.guide/):这是一份关于跨性别者激素治疗/gender-affirming hormone therapy (GAHT)  的专业医学资料 &nbsp; &nbsp; *(后续会更新pdf版下载源链接)*
+[MtF GAHT 资料](https://docs.hrt.guide/):这是一份关于跨性别女性激素治疗/gender-affirming hormone therapy (GAHT)的专业医学资料 &nbsp; &nbsp; *(后续会更新pdf版下载源链接)*
 
 
 
