@@ -10,6 +10,8 @@
 
 [FTM wiki](https://ftm.wiki/zh-cn/) : FTM百科 这里是一个或许可以给跨性别男性(FtM)群体提供帮助/资料的地方
 
+[跨性别在线文档库](https://docs.transonline.org.cn/) : 另一个成熟的跨性别在线文档库
+
 [KnowSex Post](https://post.knowsex.net/) : 一个全面的性教育知识库
 
 [女性倾向跨性别者科学](https://tfsci.mtf.wiki/zh-cn/) : 一个翻译Transfeminine Science内的论文的中文文库
